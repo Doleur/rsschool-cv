@@ -10,6 +10,7 @@ To become a qualified developer!
 
 ## Education:
 Yanka Kupala State University of Grodno, Bachelor of Science, Master of Pedagogical Science
+Mathematics (scientific ans pedagogical work)
 
 ## Work experience:
 State educational institution " Secondary school No. 38 of Grodno", teacher of Mathematics (2016-2019)

@@ -1,0 +1,87 @@
+body {
+    width: 800px;
+    margin: auto;
+    color: white;
+}
+
+
+/* -------------------header---------------- */
+
+.headcv {
+    height: 300px;
+    background-image: url(img/backg.jpg);
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.right-head {
+    float: right;
+    width: 500px;
+    margin: 80px auto auto auto;
+}
+
+.objective {
+    margin: 80px auto auto auto;
+    font-size: 22px;
+}
+
+
+/* ---------------------------main------------------------ */
+
+h2 {
+    text-align: center;
+}
+
+
+/* ----------------left-bady--------------- */
+
+.left-body {
+    float: left;
+    width: 250px;
+    background-color: #1d1d1d;
+}
+
+.left-blocks {
+    margin: auto auto 65px auto;
+}
+
+.left-info {
+    margin: 10px;
+    text-align: center;
+}
+
+
+/* ----------------right-bady--------------- */
+
+.right-body {
+    float: right;
+    width: 550px;
+    background-color: #3d3d3d;
+}
+
+.rigth-blocks {
+    margin: auto 50px 100px 50px;
+    text-align: justify;
+}
+
+.data-style {
+    font-size: 18px;
+}
+
+
+/* ---------------------------footer------------------------ */
+
+.footercv {
+    float: right;
+    width: 550px;
+    height: 103px;
+    background-color: #3d3d3d;
+}
+
+.age {
+    margin-top: 80px;
+    text-align: center;
+}
