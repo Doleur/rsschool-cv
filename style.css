@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+}
+
 body {
     width: 800px;
     margin: auto;
@@ -24,23 +28,32 @@ h1 {
 }
 
 .objective {
-    margin: 80px auto auto auto;
+    margin: 20px;
     font-size: 22px;
 }
 
 
 /* ---------------------------main------------------------ */
 
+.maincv {
+    display: flex;
+}
+
 h2 {
     text-align: center;
+    margin: 10px;
+}
+
+h3 {
+    margin-top: 90px;
 }
 
 
 /* ----------------left-bady--------------- */
 
 .left-body {
-    float: left;
     width: 250px;
+    height: 635px;
     background-color: #1d1d1d;
 }
 
@@ -57,31 +70,50 @@ h2 {
 /* ----------------right-bady--------------- */
 
 .right-body {
-    float: right;
     width: 550px;
+    height: 635px;
     background-color: #3d3d3d;
 }
 
 .rigth-blocks {
-    margin: auto 50px 100px 50px;
+    margin: 30px 20px 30px 20px;
     text-align: justify;
 }
 
+.work {
+    margin-top: 10px;
+}
+
 .data-style {
+    margin-top: 10px;
     font-size: 18px;
+}
+
+.link {
+    display: block;
+    margin: 10px 0;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: #868686;
 }
 
 
 /* ---------------------------footer------------------------ */
 
-.footercv {
-    float: right;
-    width: 550px;
-    height: 103px;
-    background-color: #3d3d3d;
+.footer-left {
+    float: left;
+    width: 250px;
+    height: 20px;
+    background-color: #1d1d1d;
 }
 
 .age {
-    margin-top: 80px;
+    float: right;
+    width: 550px;
+    height: 20px;
+    background-color: #3d3d3d;
     text-align: center;
 }
